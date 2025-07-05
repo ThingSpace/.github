@@ -11,7 +11,7 @@ We build open-source tools that support mental health, emotional expression, and
 - 📝 [**A Thing App**](https://github.com/ThingSpace/TheThing)  
   A journaling and note writing platform that lets you share your thoughts anonymously or privately.
 
-- 🔌 [**Thingy**](https://github.com/ThingSpace/Thingy) *(coming soon)*  
+- 🔌 [**Thingy**](https://github.com/ThingSpace/Thingy) 
   A developer friendly Mod Tool to power note taking, journaling, and expression driven apps.
 
 - 🌐 [**Live Site**](https://athing.space)  
