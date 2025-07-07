@@ -5,7 +5,7 @@
 We build open source tools that support mental health, emotional expression, and quiet rebellion against the pressure to stay silent.
 
 
-##💡 What We’re Building
+## 💡 What We’re Building
 - :athing: [**Mellow**](<https://mellow.athing.space>): an AI-powered mental health companion that lives right inside Discord.
 - :pencil: [**A Thing App**](<https://github.com/ThingSpace/TheThing>): A journaling and note writing platform that lets you share your thoughts anonymously or privately.
 - :electric_plug: [**Thingy**](<https://github.com/ThingSpace/Thingy>): A developer friendly Mod Tool to power note taking, journaling, and expression driven apps.
